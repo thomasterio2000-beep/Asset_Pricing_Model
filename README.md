@@ -17,8 +17,14 @@ Financial data is inherently noisy. To address this, the plots include a **12-mo
 
 ## Performance Preview
 
+### Market Excess Return
+![Market Beta](https://github.com/thomasterio2000-beep/Asset_Pricing_Model/blob/main/Asset_Pricing_Model/GRAPHS/MarketBeta.png)
+
 ### Fama-French Factors (HML)
 ![HML](https://github.com/thomasterio2000-beep/Asset_Pricing_Model/blob/main/Asset_Pricing_Model/GRAPHS/HML.png)
 
-### Market Excess Return
-![Market Beta](GRAPHS/MarketBeta.png)
+### Fama-French Factors (SMB)
+![Market Beta](https://github.com/thomasterio2000-beep/Asset_Pricing_Model/blob/main/Asset_Pricing_Model/GRAPHS/SMB.png)
+
+### Fama-French Factors (SMB&HML)
+![Market Beta](https://github.com/thomasterio2000-beep/Asset_Pricing_Model/blob/main/Asset_Pricing_Model/GRAPHS/SMB&HML.png)
